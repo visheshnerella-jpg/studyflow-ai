@@ -340,7 +340,7 @@ async function toggleTask(id) {
       </aside>
 
       <main className="main-content" id="dashboard">
-        ```jsx
+      
 <header className="topbar">
   <span>MY WORKSPACE / DASHBOARD</span>
 
