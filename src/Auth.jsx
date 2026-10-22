@@ -1,7 +1,7 @@
 
 import { useState } from 'react'
 import { supabase } from './lib/supabase'
-import './Auth.css'
+import './auth.css'
 
 export default function Auth() {
   const [email, setEmail] = useState('')
